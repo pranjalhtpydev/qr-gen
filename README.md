@@ -33,7 +33,8 @@ Check out the live demo [here](https://qr-gen-psi.vercel.app/) to start generati
 To run this project locally:
 
 1. Clone this repository to your local machine.
-2. Open `index.html` in your preferred web browser.
+2. Run `main.py` after installing `flask` library by entering `pip install flask`.
+3. Open a browser and go to localhost to view you side.
 
 ## Contributing
 
